@@ -1,4 +1,12 @@
-# 游戏素材网站索引（按类别）
+# GameAssets
+
+游戏开发**素材来源索引**与合规使用提示：按**人物、场景、贴图材质、UI、音频、特效**等分类整理国内外常用站点链接与说明。
+
+本仓库**不包含**第三方美术/音频/模型文件本体，仅维护文档化索引。适用于独立/原型检索、多引擎团队共享书签与内部版审参照。索引正文见下方；仓库以根目录 [LICENSE](./LICENSE) 为准（MIT），**外链资源的版权与许可由各站点自行约束**。
+
+---
+
+## 游戏素材网站索引（按类别）
 
 本仓库按**人物 / 场景 / 贴图材质**等用途归纳常用来源，并补充 UI、音频、特效与综合商店条目。文中站点经**公开网页与许可页**整理，**不代替法律意见**。
 
@@ -196,3 +204,21 @@
 ## 与本仓库的关系
 
 若你在本仓库中收录具体资源链接、本地镜像说明或引用记录，建议为每条资源保存：**来源 URL、下载日期、许可证全文或截图、是否需署名**，便于审计与版审。
+
+---
+
+## 许可证
+
+本仓库文档与脚本（若有）以 [LICENSE](./LICENSE) 为准（MIT）。**第三方网站及其资源的许可与本仓库无关。**
+
+---
+
+## English
+
+This repository is a **curated, categorized list of links** to game asset sources (characters, environments, PBR textures, UI, audio, VFX, marketplaces), plus short licensing notes. **No third-party asset binaries are hosted here.** The full index is in this README above.
+
+---
+
+## 建议的 GitHub Topics
+
+`game-assets` · `gamedev` · `indie-game` · `resource-list` · `cc0` · `creative-commons` · `3d-models` · `2d-sprites` · `pbr-textures` · `game-audio` · `unity` · `unreal-engine` · `godot`
